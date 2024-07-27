@@ -12,13 +12,14 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 
 ## Projects
 - **Computer Vision**:
-  - [Recyclable and Household Waste Image Classification With Deep Learning](https://github.com/Vaquita-AI/Recyclable-and-Household-Waste-Image-Classification): Developed and fine-tuned a deep learning model based on the EfficientNet B3 architecture for accurate classification of waste types from images. Achieved a test accuracy of 93.54%.
-  - [Butterfly Species Image Classification with Deep Learning](https://github.com/Vaquita-AI/Butterfly-Image-Classification): Developed and fine-tuned a deep learning model based on the ResNet50 architecture for accurate classification of butterfly species from images. Achieved a test accuracy of 94.62%.
+  - [Recyclable and Household Waste Image Classification](https://github.com/Vaquita-AI/Recyclable-and-Household-Waste-Image-Classification): Developed and fine-tuned a deep learning model based on the EfficientNet B3 architecture for accurate classification of waste types from images. Achieved a test accuracy of 93.54%.
+  - [Butterfly Species Image Classification](https://github.com/Vaquita-AI/Butterfly-Image-Classification): Developed and fine-tuned a deep learning model based on the ResNet50 architecture for accurate classification of butterfly species from images. Achieved a test accuracy of 94.62%.
 - **Data Science & Supervised Learning**:
-  - [Wine Quality Classification Using Machine Learning](https://github.com/Vaquita-AI/Wine-Quality-Classification): Developed and optimized a classification model to predict wine quality based on a Kaggle dataset. Achieved a prediction accuracy of 75.11%.
- 
+  - [Predictive Modeling for Diabetes](https://github.com/Vaquita-AI/Diabetes-Prediction): Developed and evaluated various ML models to predict diabetes based on medical and demographic features. Achieved 90% F1 score with XGBoost and CatBoost classifiers.
+  - [Wine Quality Classification](https://github.com/Vaquita-AI/Wine-Quality-Classification): Developed and optimized a classification model to predict wine quality based on a Kaggle dataset. Achieved a prediction accuracy of 75.11%.
 - **Natural Language Processing (NLP)**:
-  - [SMS Spam Detection with Naive Bayes Classifier (NLP)](https://github.com/Vaquita-AI/SMS-Spam-Detection): Developed a classification system to detect spam messages in SMS text data using Naive Bayes classifiers and text vectorization methods. Achieved a classification accuracy of 98%.
+  - [Machine Translation (English > German)](https://github.com/Vaquita-AI/Machine-Translation-EN-DE): Experimented with a hand-coded Transformer-based model for translating English text to German. Achieved a BLEU score of 0.0149 on the validation set.
+  - [SMS Spam Detection](https://github.com/Vaquita-AI/SMS-Spam-Detection): Developed a classification system to detect spam messages in SMS text data using Naive Bayes classifiers and text vectorization methods. Achieved a classification accuracy of 98% on the test set.
 
 
 ## Collaboration Interests
