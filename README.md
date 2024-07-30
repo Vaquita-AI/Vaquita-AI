@@ -14,6 +14,7 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 - **Computer Vision**:
   - [Recyclable and Household Waste Image Classification](https://github.com/Vaquita-AI/Recyclable-and-Household-Waste-Image-Classification): Developed and fine-tuned a deep learning model based on the EfficientNet B3 architecture for accurate classification of waste types from images. Achieved a test accuracy of 93.54%.
   - [Butterfly Species Image Classification](https://github.com/Vaquita-AI/Butterfly-Image-Classification): Developed and fine-tuned a deep learning model based on the ResNet50 architecture for accurate classification of butterfly species from images. Achieved a test accuracy of 94.62%.
+  - [Rockets Objects Detection](https://github.com/Vaquita-AI/Rocket-Objects-Detection): WIP
 - **Data Science & Supervised Learning**:
   - [Predictive Modeling for Diabetes](https://github.com/Vaquita-AI/Diabetes-Prediction): Developed and evaluated various ML models to predict diabetes based on medical and demographic features. Achieved 90% F1 score with XGBoost and CatBoost classifiers.
   - [Wine Quality Classification](https://github.com/Vaquita-AI/Wine-Quality-Classification): Developed and optimized a classification model to predict wine quality based on a Kaggle dataset. Achieved a prediction accuracy of 75.11%.
