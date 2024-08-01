@@ -12,7 +12,7 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 
 ## Projects
 - **Computer Vision**:
-  - [Rocket Objects Detection](https://github.com/Vaquita-AI/Rocket-Objects-Detection): Developed a robust YOLOv8m-based model to accurately identify and localize various rocket components. Achieved an overall precision of 0.835 and mAP50 of 0.826. Demonstrated the model's capability on a real-world video:[ULA Atlas V launch](https://www.youtube.com/watch?v=iVRCdFLpDaE).
+  - [Rocket Objects Detection](https://github.com/Vaquita-AI/Rocket-Objects-Detection): Developed a robust YOLOv8m-based model to accurately identify and localize various rocket components. Achieved an overall precision of 0.835 and mAP50 of 0.826. Demonstrated the model's capability on a real-world video: [ULA Atlas V launch](https://www.youtube.com/watch?v=iVRCdFLpDaE).
   - [Recyclable and Household Waste Image Classification](https://github.com/Vaquita-AI/Recyclable-and-Household-Waste-Image-Classification): Developed and fine-tuned a deep learning model based on the EfficientNet B3 architecture for accurate classification of waste types from images. Achieved a test accuracy of 93.54%.
   - [Butterfly Species Image Classification](https://github.com/Vaquita-AI/Butterfly-Image-Classification): Developed and fine-tuned a deep learning model based on the ResNet50 architecture for accurate classification of butterfly species from images. Achieved a test accuracy of 94.62%.
 - **Data Science & Supervised Learning**:
