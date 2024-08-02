@@ -18,6 +18,8 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 - **Data Science & Supervised Learning**:
   - [Predictive Modeling for Diabetes](https://github.com/Vaquita-AI/Diabetes-Prediction): Developed and evaluated various ML models to predict diabetes based on medical and demographic features. Achieved 90% F1 score with XGBoost and CatBoost classifiers.
   - [Wine Quality Classification](https://github.com/Vaquita-AI/Wine-Quality-Classification): Developed and optimized a classification model to predict wine quality based on a Kaggle dataset. Achieved a prediction accuracy of 75.11%.
+- **Time Series Forecasting**:
+  - [Gold Price Prediction](https://github.com/Vaquita-AI/Gold-Price-Prediction): WIP
 - **Natural Language Processing (NLP)**:
   - [Machine Translation (English > German)](https://github.com/Vaquita-AI/Machine-Translation-EN-DE): Experimented with a hand-coded Transformer-based model for translating English text to German. Achieved a BLEU score of 0.0149 on the validation set.
   - [SMS Spam Detection](https://github.com/Vaquita-AI/SMS-Spam-Detection): Developed a classification system to detect spam messages in SMS text data using Naive Bayes classifiers and text vectorization methods. Achieved a classification accuracy of 98% on the test set.
