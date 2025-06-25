@@ -6,12 +6,13 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 ## Skills & Frameworks
 - **Languages**: Python, JavaScript, R
 - **Data Science**: Pandas, Numpy, Matplotlib, Altair, Seaborn, Tableau, Jupyter Notebooks
-- **Machine Learning & AI**: PyTorch, TensorFlow, Keras, Scikit-Learn, Optuna, OpenCV, NLTK
+- **Machine Learning & AI**: PyTorch, TensorFlow, Keras, Ultralytics, Scikit-Learn, Optuna, OpenCV, NLTK
 - **Web Development**: HTML5, CSS3, React.js, Django (Backend)
 - **Database Management**: SQL, MongoDB
 
 ## Projects
 - **Computer Vision**:
+  - [Road Anomalies Image Classification and Explainable AI Toolkit](https://github.com/Vaquita-AI/RoadAnomalyDetection): Developed a toolkit for classifying road anomaly images (generated via Stable Diffusion inpainting) using ResNet18 and XAI methods (GradCAM++, LIME, Occlusion Sensitivtiy). Achieved 96% test accuracy, improving model transparency and interpretability to humans.
   - [Rocket Objects Detection](https://github.com/Vaquita-AI/Rocket-Objects-Detection): Developed a robust YOLOv8m-based model to accurately identify and localize various rocket components. Achieved an overall precision of 0.835 and mAP50 of 0.826. Demonstrated the model's capability on a real-world video: [ULA Atlas V launch](https://www.youtube.com/watch?v=iVRCdFLpDaE).
   - [Recyclable and Household Waste Image Classification](https://github.com/Vaquita-AI/Recyclable-and-Household-Waste-Image-Classification): Developed and fine-tuned a deep learning model based on the EfficientNet B3 architecture for accurate classification of waste types from images. Achieved a test accuracy of 93.54%.
   - [Butterfly Species Image Classification](https://github.com/Vaquita-AI/Butterfly-Image-Classification): Developed and fine-tuned a deep learning model based on the ResNet50 architecture for accurate classification of butterfly species from images. Achieved a test accuracy of 94.62%.
