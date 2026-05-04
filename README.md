@@ -1,14 +1,16 @@
 # Hi there!👋
 
 ## About Me
-I'm a Bachelor's student in Computer Science with a focus on Artificial Intelligence. I am passionate about Computer Vision, Natural Language Processing and Supervised Learning applications, and I am eager to apply my theoretical knowledge to practical experiences. 
+I'm a Bachelor of Science graduate in Computer Science with a focus on Artificial Intelligence. I am passionate about Computer Vision, Natural Language Processing and Supervised Learning applications, and I am eager to apply my theoretical knowledge to practical experiences. 
 
 ## Skills & Frameworks
-- **Languages**: Python, JavaScript, R
+- **Languages**: Python (Expert) Java JavaScript SQL R
 - **Data Science**: Pandas, Numpy, Matplotlib, Altair, Seaborn, Tableau, Jupyter Notebooks
-- **Machine Learning & AI**: PyTorch, TensorFlow, Keras, Ultralytics, Scikit-Learn, Optuna, OpenCV, NLTK
+- **Machine Learning & AI**: PyTorch, TensorFlow, Keras, Ultralytics, Scikit-Learn, MMDetection, Optuna, OpenCV, Diffusers, NLTK
 - **Web Development**: HTML5, CSS3, React.js, Django (Backend)
 - **Database Management**: SQL, MongoDB
+- **Cloud**: Microsoft Azure (AI Services / ML Studio)
+- **MLOps**: Weights & Biases (wandb), TensorBoard
 
 ## Projects
 - **Computer Vision**:
@@ -33,7 +35,7 @@ I'm a Bachelor's student in Computer Science with a focus on Artificial Intellig
 - **Deep Learning Research**: Exploring new architectures, optimization techniques and applications of deep learning.
 
 ## Contact
-Feel free to reach out to me via [email](mailto:zlomz19z@gmail.com) if you are interested in collaborating or have any questions!
+Feel free to reach out to me via [email](mailto:ahmedibrahim@posteo.com) if you are interested in collaborating or have any questions!
 
 
 
